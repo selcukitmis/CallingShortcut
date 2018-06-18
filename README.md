@@ -1,6 +1,6 @@
 #  React Native Calling Shortcut
 
-# This application using
+## This application using
 
 *  React Native AsyncStorage
 *  react-native-contacts
